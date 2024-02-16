@@ -3,7 +3,7 @@
  */
 
 /**
- * esempio
+ * esempio remoto
  */
 public class Cantante {
 	private String nome;
